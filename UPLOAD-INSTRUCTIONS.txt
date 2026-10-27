@@ -1,0 +1,19 @@
+UPLOAD INSTRUCTIONS — GitHub repository: varadkulat21-art/coursera
+
+1. Download and extract this ZIP on your computer.
+2. Open https://github.com/varadkulat21-art/coursera
+3. Choose Add file > Upload files.
+4. Upload the CONTENTS of the extracted folder (manage.py, myproject/, onlinecourse/, README.md, and screenshots). Do not upload only the ZIP file, and do not upload an extra enclosing project folder.
+5. Commit to branch main. If GitHub reports that files already exist, replace/update the corresponding files.
+6. Confirm the repository is Public and open each submitted file URL to check it loads.
+
+Expected rubric URLs after upload:
+Q1 https://github.com/varadkulat21-art/coursera/blob/main/onlinecourse/models.py
+Q2 https://github.com/varadkulat21-art/coursera/blob/main/onlinecourse/admin.py
+Q3 upload 03-admin-site.png directly to Coursera
+Q4 https://github.com/varadkulat21-art/coursera/blob/main/onlinecourse/templates/onlinecourse/course_details_bootstrap.html
+Q5 https://github.com/varadkulat21-art/coursera/blob/main/onlinecourse/views.py
+Q6 https://github.com/varadkulat21-art/coursera/blob/main/onlinecourse/urls.py
+Q7 upload 07-final.png directly to Coursera
+
+Important: This ZIP packages the corrected project files. I cannot commit to your GitHub account from this chat. Please verify the app and links after uploading before resubmitting. If you have an existing database, back it up before applying model/migration changes.
